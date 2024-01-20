@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(69, 83, 217);
+}
+.container{
+    color: white;
+    display: flex;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+textarea{
+    height: 507px;
+    width: 625px;
+    border: 3px solid rgba(13, 13, 13, 0.403);
+    border-radius: 8px;
+    color: white;
+}
+.output{
+    padding-left: 5%;
+    
+}
+.output-text{
+    background-color: rgb(68, 67, 67);
+    width: 650px;
+    height: 550px;
+    border-radius: 5px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.187);
+}
